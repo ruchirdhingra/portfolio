@@ -5,7 +5,7 @@ layout: default
 
 # Portfolio
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Below are my Projects / Acheivements -
 
 ## Automation Projects
 
@@ -13,3 +13,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > Have been resposible for 23.2 FTE reductions for one of my client. <br>
 > Also proficient in browser based automations.
 
+## Acheivements
+> Have been awarded for **Continuous Improvement** in the organisation. <br>
+> Have been recognised by client and incentivised fro good performance <br>
