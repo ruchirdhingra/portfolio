@@ -15,4 +15,4 @@ Below are my Projects / Acheivements -
 
 ## Acheivements
 > Have been awarded for **Continuous Improvement** in the organisation. <br>
-> Have been recognised by client and incentivised fro good performance <br>
+> Have been recognised by client and incentivised for good performance <br>
